@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-fiqryq",
+  "version": "1.0.0",
+  "description": "personal linter config",
+  "main": "index.js",
+  "repository": "https://github.com/fiqryq/eslint-config-fiqryq",
+  "author": "fiqryq",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "eslint": "^8.0.1",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  }
+}
